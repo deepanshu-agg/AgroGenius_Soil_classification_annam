@@ -1,0 +1,18 @@
+# Core Data Science & Utility Libraries
+pandas>=1.3.0
+numpy>=1.20.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+Pillow>=9.0.0
+tqdm>=4.60.0
+joblib>=1.0.0
+
+# PyTorch Libraries
+# Note: For torch and torchvision, specific versions might be needed
+# depending on your CUDA setup if using GPU.
+# If you install these without specifying versions, pip will get recent stable ones.
+# Or, find specific install commands from: https://pytorch.org/get-started/locally/
+torch>=1.10.0
+torchvision>=0.11.0
+
+# ipywidgets>=7.0.0
